@@ -1,3 +1,3 @@
 # Natours up
 
-built using modern techologie: node, express,mongodb etc
+built using modern techologie: node, express,mongodb and friends
